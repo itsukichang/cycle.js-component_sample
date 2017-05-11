@@ -5,11 +5,7 @@ npm install
 npm run watch
 ```
 
-# 入ってるもの
-- pug
-- stylus
-- typescript
-- browser-sync
-- cycle.js
-- rxjs
-- xstream
+# what is
+cycle.jsのコンポーネントを学習します
+参考: https://tech.recruit-mp.co.jp/front-end/post-12003/
+
